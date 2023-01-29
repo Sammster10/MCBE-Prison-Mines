@@ -1,0 +1,54 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Prison Mines",
+    "description": "Create & manage simple prison mines",
+    "uuid": "7ec0051e-c3e9-8b1f-86a0-75a487c39522",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "4a062228-a9f1-d7f4-c000-7fa312ca4327",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "language": "javascript",
+      "type": "script",
+      "uuid": "1d4fdabc-6ac6-5a0b-4788-de7872593eb4",
+      "version": "1.1.0-beta",
+      "entry": "scripts/index.js"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Sam (YouTube: Sammster)"
+    ],
+    "url": "https://youtube.com/sammster10"
+  },
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "description": "Minecraft module, required to use the Minecraft module",
+      "version": "1.1.0-beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "description": "GameTest module, required to use the GameTest module",
+      "version": "1.0.0-beta"
+    }
+  ]
+}
