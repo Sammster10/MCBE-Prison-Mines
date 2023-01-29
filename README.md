@@ -48,4 +48,4 @@ This addon makes use of the GameTest framework to run.
 Beta APIs are being used! Please make sure to enable this setting on your world in order for this addon to run.
 
 # Downloads:
-`.mcpack`: https://www.mediafire.com/file/9ieqm410h911v5m/MCBE_Prison_Mines_%2528GameTest%2529.mcpack/file
+`.mcpack`: https://www.mediafire.com/file/gpqf00s19qdka3l/MCBE_Prison_Mines_%2528GameTest%2529.mcpack/file
