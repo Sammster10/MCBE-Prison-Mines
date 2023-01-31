@@ -4,6 +4,8 @@ Easily create and manage prison-style mines for your MCBE worlds, realms, server
 
 # How To Use:
 
+`Video Tutorial`: https://youtu.be/-hBCJksz_Vk
+
 First, download the `.mcpack` file (see below) and install it.
 
 After installing the pack, open Minecraft and apply it to your desired world(s).
